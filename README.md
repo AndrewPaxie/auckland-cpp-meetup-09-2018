@@ -25,8 +25,8 @@ Special mention is given to the following individuals,
 - Nick Sarten
 - Paul Leslie
 - Shane Powell
-- Tom Isaacson
 - Toby Allsopp
+- Tom Isaacson
 
 and
 
@@ -35,6 +35,7 @@ and
 - Jacqueline Lewis
 - Ralf Haeusler
 - Saeid Shahosseini
+- Sam McArdle
 
 Thank you all,
 
